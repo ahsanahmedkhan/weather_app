@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:weather_app/utilities/constants.dart';
 
-
-
 class CityScreen extends StatefulWidget {
   @override
   _CityScreenState createState() => _CityScreenState();
